@@ -1,0 +1,15 @@
+2026-11-11 10:02:39,669 - DEBUG - Ini adalah pesan debug.
+2026-11-11 10:02:39,669 - INFO - Ini adalah pesan info.
+2026-11-11 10:02:39,669 - WARNING - Ini adalah pesan warning.
+2026-11-11 10:02:39,669 - ERROR - Ini adalah pesan error.
+2026-11-11 10:02:39,669 - CRITICAL - Ini adalah pesan critical.
+2026-11-11 10:07:25,158 - DEBUG - Ini adalah pesan debug.
+2026-11-11 10:07:25,159 - INFO - Ini adalah pesan info.
+2026-11-11 10:07:25,159 - WARNING - Ini adalah pesan warning.
+2026-11-11 10:07:25,159 - ERROR - Ini adalah pesan error.
+2026-11-11 10:07:25,159 - CRITICAL - Ini adalah pesan critical.
+2026-11-11 10:09:04,250 - DEBUG - Ini adalah pesan debug.
+2026-11-11 10:09:04,251 - INFO - Ini adalah pesan info.
+2026-11-11 10:09:04,251 - WARNING - Ini adalah pesan warning.
+2026-11-11 10:09:04,278 - ERROR - Ini adalah pesan error.
+2026-11-11 10:09:04,279 - CRITICAL - Ini adalah pesan critical.

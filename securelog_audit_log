@@ -1,0 +1,2 @@
+2026-11-11 10:09:05,132 - INFO - Login berhasil: User 'admin' berhasil login dari IP 192.168.1.100.
+2026-11-11 10:09:05,132 - WARNING - Login gagal: Password salah untuk user 'user1' dari IP 192.168.1.100.
